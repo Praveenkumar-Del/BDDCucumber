@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="RunnerPackage.TestRunner" time="60.806" errors="1" skipped="0">
+<testsuite tests="3" failures="0" name="RunnerPackage.TestRunner" time="65.022" errors="1" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="MyBDDCucumberFramework"/>
@@ -26,8 +26,8 @@
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="MyBDDCucumberFramework"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/MyBDDCucumberFramework/2/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/MyBDDCucumberFramework/3/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
     <property name="OneDrive" value="C:\Users\dell\OneDrive"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_251\jre\bin"/>
     <property name="LOCALAPPDATA" value="C:\Users\dell\AppData\Local"/>
@@ -38,7 +38,7 @@
     <property name="sun.arch.data.model" value="64"/>
     <property name="NODE_NAME" value="master"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_251\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="2"/>
+    <property name="BUILD_ID" value="3"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -56,7 +56,7 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.0"/>
     <property name="=ExitCode" value="00000000"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/MyBDDCucumberFramework/2/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/MyBDDCucumberFramework/3/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="TMP" value="C:\Users\dell\AppData\Local\Temp"/>
     <property name="path.separator" value=";"/>
@@ -78,7 +78,7 @@
     <property name="POM_GROUPID" value="BDDCucumber"/>
     <property name="user.home" value="C:\Users\dell"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-MyBDDCucumberFramework-2"/>
+    <property name="BUILD_TAG" value="jenkins-MyBDDCucumberFramework-3"/>
     <property name="JENKINS_SERVER_COOKIE" value="87ac00b9368caac4"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -92,7 +92,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Program Files\apache-maven-3.6.3"/>
     <property name="java.class.path" value="C:\Users\dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Program Files\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\apache-maven-3.6.3/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\apache-maven-3.6.3 C:\Users\dell\.jenkins\war\WEB-INF\lib\remoting-4.3.jar C:\Users\dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 61701"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\apache-maven-3.6.3 C:\Users\dell\.jenkins\war\WEB-INF\lib\remoting-4.3.jar C:\Users\dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\dell\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 62866"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_251/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;&quot;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-13.0.2\bin&quot;;C:\Program Files\Java\jdk-13.0.2\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files\nodejs\;C:\Users\dell\AppData\Local\Microsoft\WindowsApps;C:\Users\dell\AppData\Roaming\npm;C:\Users\dell\AppData\Local\Programs\Microsoft VS Code\bin"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -108,7 +108,7 @@
     <property name="HUDSON_HOME" value="C:\Users\dell\.jenkins"/>
     <property name="PATH+MAVEN" value="C:\Program Files\apache-maven-3.6.3/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/MyBDDCucumberFramework/2/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/MyBDDCucumberFramework/3/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -122,7 +122,7 @@
 "/>
     <property name="MAVEN_HOME" value="C:\Program Files\apache-maven-3.6.3"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="2"/>
+    <property name="BUILD_NUMBER" value="3"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="4e03"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
@@ -138,21 +138,21 @@
     <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
   </properties>
-  <testcase classname="Free HRMOrangeApplication" name="HRMOrange Application Demo" time="22.23"/>
-  <testcase classname="Free HRMOrangeApplication" name="User clicks on Logout" time="19.456">
+  <testcase classname="Free HRMOrangeApplication" name="HRMOrange Application Demo" time="19.138"/>
+  <testcase classname="Free HRMOrangeApplication" name="User clicks on Logout" time="24.899">
     <error message="move target out of bounds
   (Session info: chrome=81.0.4044.113)
 Build info: version: &apos;3.141.5&apos;, revision: &apos;d54ebd709a&apos;, time: &apos;2018-11-06T11:42:16&apos;
 System info: host: &apos;POOJA-17125&apos;, ip: &apos;192.168.43.160&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.113, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61749}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: fd14cf07f0c63f2c0b334b014e062de0" type="org.openqa.selenium.interactions.MoveTargetOutOfBoundsException">org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: move target out of bounds
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.113, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62910}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d64d07aa96d3365aedda933ac1685da6" type="org.openqa.selenium.interactions.MoveTargetOutOfBoundsException">org.openqa.selenium.interactions.MoveTargetOutOfBoundsException: move target out of bounds
   (Session info: chrome=81.0.4044.113)
 Build info: version: &apos;3.141.5&apos;, revision: &apos;d54ebd709a&apos;, time: &apos;2018-11-06T11:42:16&apos;
 System info: host: &apos;POOJA-17125&apos;, ip: &apos;192.168.43.160&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.113, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61749}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: fd14cf07f0c63f2c0b334b014e062de0
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.113, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62910}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d64d07aa96d3365aedda933ac1685da6
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -179,8 +179,8 @@ OrangeHRM
 Build info: version: &apos;3.141.5&apos;, revision: &apos;d54ebd709a&apos;, time: &apos;2018-11-06T11:42:16&apos;
 System info: host: &apos;POOJA-17125&apos;, ip: &apos;192.168.43.160&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_251&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.113, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:61749}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: fd14cf07f0c63f2c0b334b014e062de0
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.113, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:62910}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d64d07aa96d3365aedda933ac1685da6
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -198,40 +198,58 @@ Session ID: fd14cf07f0c63f2c0b334b014e062de0
 
   And user clicks on Logout                   # StepDefinition.LoginStepDefinition.user_clicks_on_Logout()
 </system-out>
-    <system-err>Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 16833
+    <system-err>Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 33254
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-[1587637504.447][WARNING]: This version of ChromeDriver has not been tested with Chrome version 81.
-[1587637506.682][WARNING]: Timed out connecting to Chrome, retrying...
-Apr 23, 2020 3:55:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1587639755.596][WARNING]: This version of ChromeDriver has not been tested with Chrome version 81.
+[1587639757.661][WARNING]: Timed out connecting to Chrome, retrying...
+Apr 23, 2020 4:32:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1587637510.367][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637510.474][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637510.576][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637510.678][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637510.779][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637510.880][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637510.984][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.093][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.195][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.297][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.398][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.499][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.600][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.703][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.804][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637511.933][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637512.142][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637512.243][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637512.634][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637512.736][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637519.431][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637519.532][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637519.774][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637519.881][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637519.983][SEVERE]: Timed out receiving message from renderer: 0.100
-[1587637520.087][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.063][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.164][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.265][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.366][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.469][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.572][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.673][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.775][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.876][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639763.977][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.079][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.181][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.283][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.384][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.485][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.587][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.689][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.790][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.892][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639764.993][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639765.097][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639765.199][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639765.457][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639765.852][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639765.959][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639766.062][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639766.163][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639766.270][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639766.373][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.119][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.220][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.324][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.449][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.584][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.748][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.850][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639773.953][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.067][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.170][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.272][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.376][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.479][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.580][SEVERE]: Timed out receiving message from renderer: 0.100
+[1587639774.685][SEVERE]: Timed out receiving message from renderer: 0.100
 </system-err>
   </testcase>
-  <testcase classname="Free HRMOrangeApplication" name="user Check when you forgot the password" time="19.12"/>
+  <testcase classname="Free HRMOrangeApplication" name="user Check when you forgot the password" time="20.985"/>
 </testsuite>
